@@ -20,3 +20,11 @@ The report includes:
   (Average Purchase Price)
   (Total Purchase Value)
   (Average Purchase Total per Person by Gender)
+
+-Age Demographics
+
+-Top Spenders
+
+-Most Popular Items
+
+-Most Profitable Items
