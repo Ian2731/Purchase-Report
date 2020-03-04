@@ -6,6 +6,6 @@ The report includes:
 
 -Purchasing Analysis:
   (Number of Unique Items)
-  -Average Purchase Price
-  -Total Number of Purchases
-  -Total Revenue
+  (Average Purchase Price)
+  (Total Number of Purchases)
+  (Total Revenue)
