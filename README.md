@@ -40,4 +40,9 @@ The report includes:
   (Item Price)
   (Total Purchase Value)
 
--Most Profitable Items
+-Most Profitable Items:
+  (Item ID)
+  (Item Name)
+  (Purchase Count)
+  (Item Price)
+  (Total Purchase Value)
