@@ -2,7 +2,8 @@ Using the purchas_data.csv I am generating a report that breaks down the game's 
 
 The report includes:
 
--Player Count
+-Player Count:
+  -Total Number of Players
 
 -Purchasing Analysis:
   (Number of Unique Items)
