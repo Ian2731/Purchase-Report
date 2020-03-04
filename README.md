@@ -15,4 +15,8 @@ The report includes:
   (Percentage and Count of Female Players)
   (Percentage and Count of Other / Non-Disclosed)
   
--Purchas Analysis(Gender):
+-Purchas Analysis(By Gender):
+  -Purchase Count
+  -Average Purchase Price
+  -Total Purchase Value
+  -Average Purchase Total per Person by Gender
