@@ -33,6 +33,11 @@ The report includes:
   (Average Purchase Price)
   (Total Purchase Value)
 
--Most Popular Items
+-Most Popular Items:
+  (Item ID)
+  (Item Name)
+  (Purchase Count)
+  (Item Price)
+  (Total Purchase Value)
 
 -Most Profitable Items
