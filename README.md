@@ -9,3 +9,5 @@ The report includes:
   (Average Purchase Price)
   (Total Number of Purchases)
   (Total Revenue)
+
+-Gender Domographics:
