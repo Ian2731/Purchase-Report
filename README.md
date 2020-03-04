@@ -27,7 +27,11 @@ The report includes:
   (Total Purchase Value)
   (Average Purchase Total per Person by Age Group)
 
--Top Spenders
+-Top Spenders:
+  (SN)
+  (Purchase Count)
+  (Average Purchase Price)
+  (Total Purchase Value)
 
 -Most Popular Items
 
