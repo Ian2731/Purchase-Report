@@ -21,7 +21,11 @@ The report includes:
   (Total Purchase Value)
   (Average Purchase Total per Person by Gender)
 
--Age Demographics
+-Age Demographics:
+  (Purchase Count)
+  (Average Purchase Price)
+  (Total Purchase Value)
+  (Average Purchase Total per Person by Age Group)
 
 -Top Spenders
 
